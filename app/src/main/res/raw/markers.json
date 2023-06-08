@@ -5,7 +5,7 @@
             "Scuola", 
             "1900"
         ], 
-        "main_tag": "Cultura", 
+        "main_tag": "Monumenti",
         "marker_name": "ITIS Giuseppe Armellini", 
         "lat": 41.85604586759884, 
         "lng": 12.47636809454142, 
@@ -17,7 +17,7 @@
             "Cultura", 
             "Archeleogia"
         ], 
-        "main_tag": "Architettura", 
+        "main_tag": "Monumenti",
         "marker_name": "Colosseo", 
         "lat": 41.890282779659174, 
         "lng": 12.49220564539936, 
@@ -29,7 +29,7 @@
             "Architettura", 
             "1900"
         ], 
-        "main_tag": "Trasporti", 
+        "main_tag": "Monumenti",
         "marker_name": "Stazione Basilica di San Paolo", 
         "lat": 41.85569515317489, 
         "lng": 12.478152490003996, 
@@ -41,7 +41,7 @@
             "Architettura", 
             "Religione"
         ], 
-        "main_tag": "Cultura", 
+        "main_tag": "Monumenti",
         "marker_name": "Basilica di San Paolo", 
         "lat": 41.8587998836576, 
         "lng": 12.476719342921665, 
@@ -53,7 +53,7 @@
             "0", 
             " 0"
         ], 
-        "main_tag": "Architettura", 
+        "main_tag": "Monumenti",
         "marker_name": "Test0", 
         "lat": 0.0, 
         "lng": 0.0, 
@@ -64,7 +64,7 @@
         "tags": [
             "1"
         ], 
-        "main_tag": "Cibo", 
+        "main_tag": "CTM",
         "marker_name": "test1", 
         "lat": 10.0, 
         "lng": 10.0, 
@@ -76,7 +76,7 @@
             "2", 
             " 2"
         ], 
-        "main_tag": "Natura", 
+        "main_tag": "Curiosita",
         "marker_name": "Test2", 
         "lat": 20.0, 
         "lng": 20.0, 
@@ -88,14 +88,14 @@
             "3", 
             " 3"
         ], 
-        "main_tag": "Cultura", 
+        "main_tag": "Parchi",
         "marker_name": "Test3", 
         "lat": 30.0, 
         "lng": 30.0, 
         "id": "test3"
     }, 
     {
-        "description": "40", 
+        "description": "Epoche",
         "tags": [
             "4", 
             " 4"
@@ -112,7 +112,7 @@
             "5", 
             " 5"
         ], 
-        "main_tag": "Storia", 
+        "main_tag": "Epoche",
         "marker_name": "Test5", 
         "lat": 50.0, 
         "lng": 50.0, 
@@ -124,7 +124,7 @@
             "6", 
             " 6"
         ], 
-        "main_tag": "Trasporti", 
+        "main_tag": "Epoche",
         "marker_name": "Test6", 
         "lat": 60.0, 
         "lng": 60.0, 
@@ -135,7 +135,7 @@
         "tags": [
             "7"
         ], 
-        "main_tag": "LuoghiPanoramici", 
+        "main_tag": "Epoche",
         "marker_name": "Test7", 
         "lat": 70.0, 
         "lng": 70.0, 

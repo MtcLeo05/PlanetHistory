@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">MapBox</string>
-    <string name="mapbox_access_token">pk.eyJ1Ijoic3N1bGYiLCJhIjoiY2xnNnl3cjFyMGVuZzNncXltN3ZxNTRqNSJ9.idce9FdcCjLtScbta8I24w</string>
+    <string name="app_name" translatable="false">PlanetHistory</string>
+    <string name="mapbox_access_token" translatable="false">pk.eyJ1Ijoic3N1bGYiLCJhIjoiY2xnNnl3cjFyMGVuZzNncXltN3ZxNTRqNSJ9.idce9FdcCjLtScbta8I24w</string>
 </resources>
